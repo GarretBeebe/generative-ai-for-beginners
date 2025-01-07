@@ -2,7 +2,7 @@
 // https://github.com/github/codespaces-jupyter
 {
 	"name": "generative-ai-for-beginners",
-	"image": "mcr.microsoft.com/devcontainers/universal:2.11",
+	"image": "mcr.microsoft.com/devcontainers/python:dev-3.9-bookworm",
 	"hostRequirements": {
 		"cpus": 4
 	},
